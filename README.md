@@ -28,13 +28,15 @@ Most entries do not have a corresponding cognate in each of the 7 daughter langu
 
 #### Number of Entries per Language
 
-| Language  | Number of Entries |
-| --------- | ----------------- |
-| English   | 2663              |
-| Dutch     | 2508              |
-| German    | 2717              |
-| Swedish   | 2279              |
-| Danish    | 1955              |
-| Icelandic | 3232              |
-| Gothic    | 1661              |
+| Language       | Number of Entries |
+| -------------- | ----------------- |
+| English        | 2663              |
+| Dutch          | 2508              |
+| German         | 2717              |
+| Swedish        | 2279              |
+| Danish         | 1955              |
+| Icelandic      | 3232              |
+| Gothic         | 1661              |
+| Proto-Germanic | 4736              |
+| Total          | 21751             |
 
