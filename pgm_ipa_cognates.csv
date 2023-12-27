@@ -1,6 +1,6 @@
 English,Dutch,German,Swedish,Danish,Icelandic,Gothic,Proto-Germanic
 ,,-ən,,,-ja,-an,-aːnã
--ə,-ər,-ɐ ,-are,-ʌ,-aːrɪ,-ariːs,-aːrijaz
+-ə,-ər,-ɜ,-are,-ʌ,-aːrɪ,-ariːs,-aːrijaz
 -ən,-ən,-ən,-a,-ə,-a,-an,-anã
 ,,,,,,-ana,-aneː
 ,,,,,,-assus,-assuz
@@ -27,7 +27,7 @@ English,Dutch,German,Swedish,Danish,Icelandic,Gothic,Proto-Germanic
 -ɪst,-st,-st,-st,-st,-sdʏr,-ists,-istaz
 ,-tə,-tsə,,,,,-itjã
 ,,,,,,-itjan,-itjanã
--ə,-ər,-ɐ ,,,-ʏr,-is,-iz
+-ə,-ər,-ɜ,,,-ʏr,-is,-iz
 -θ,-tə,-də,-d,-də,-ð,-iθa,-iθɔː
 ,,,,,,-i,-jã
 -i,-ən,-ən,-ja,,-ja,-an,-janã
@@ -44,7 +44,7 @@ English,Dutch,German,Swedish,Danish,Icelandic,Gothic,Proto-Germanic
 -ən,-ən,-ən,-a,-ə,-a,-oːn,-ɔːnã
 ,,,-an,,-an,-oːns,-ɔːniz
 -ɪst,-st,-st,-ast,-esd,-astʏr,-oːsts,-ɔːstaz
--ə,-ər,-ɐ ,-are,-erə,-aːrɪ,-oːza,-ɔːzɔːː
+-ə,-ər,-ɜ,-are,-erə,-aːrɪ,-oːza,-ɔːzɔːː
 ,,,,,,-oːθus,-ɔːθuz
 -fəʊld,-vaut,-falt,-fald,-fʌl,-faltʏr,-ɸalθs,-ɸalθaz
 ,,,,,-ʏr,-rs,-raz
@@ -143,8 +143,8 @@ eɪkɔːn,aːkər,akeːrɑːn,ɑːkɑːrn,agɛɐ̯n,aːgardn,akran,akranã
 ,,akɜvɛɾk,,,aːgʏrʋɛrrg,,akrawerkã
 eɪkə,ɑkər,akɜ,oːkər,ajʌ,aːgʏr,akrs,akraz
 aks,ɑks,akst,yːksa,ʔœksə,œksɪ,akʷizi,akʷisiː
-ɔːl,,,,,,,ala-
-,,,,,,alamans,alamann-
+ɔːl,,,,,,,ala
+,,,,,,alamans,alamann
 ɒlmaɪti,ɑlmɑxtəx,almɛçtɪç,alsməktɪg,,almaʊhdʏɣʏr,,alamaxtiːɣaz
 ,,,ɵpala,,alaː,alan,alanã
 ,,ɑlarɪç,,,,alariːks,alariːks
@@ -191,7 +191,7 @@ amə,,amɜ,,,,,amliz
 ,ɑmpər,,ampər,ɑmpʔeɐ̯,aːbʏr,,ampraz
 ,,,oːs,ɒs,aʊːs,ams,amsaz
 ɒn,aːn,an,oː,ɒ,aʊː,ana,an
-ɒn,aːn,an,,,aʊː,ana-,ana-
+ɒn-,aːn-,an-,,,aʊː-,ana-,ana-
 and,,ɑːnt,andə,ʔʌnə,andɪ,,anaðɔːː
 and,,ɑːndən,andas,ʔʌnə,anda,,anaðɔːnã
 ɛnd,eːnt,ɛntə,and,an,œnd,,anaðz
@@ -200,7 +200,7 @@ and,,ɑːndən,andas,ʔʌnə,anda,,anaðɔːnã
 ɒnhand,,,,,aʊːhɛndʏr,,anaxandijaz
 ,,,,,,anaβiuðan,anaβeuðanã
 ,,,,,,anaβusns,anaβuːsniz
-an,ɔnt,ɛnt,,,and,anda-,anda-
+an-,ɔnt-,ɛnt-,,,and-,anda-,anda-
 ,,,,,,andsakan,andasakanã
 ,,,,,,andstandan,andastandanã
 ,,,asar,aðsʔʌ,œssʏr,,andaswaraz
@@ -361,7 +361,7 @@ eɪtθ,,axtə,ɔtːɔndə,ʔʌdənə,aʊhdʏndɪ,ahtuða,axtuðɔːː
 ,aːrɛnt,ɛɾntə,and,,,,azanɔːðaz
 ɜːn,,ɛɾntən,,,anna,,azanɔːnã
 ɒv,ɑf,ap,ɑːv,a,aːf,aɸ,aβ
-,,,,,aːf,aɸ-,aβa-
+,,,,,aːf-,aɸ-,aβa-
 ,ɑfɣeːvən,apgeːbən,,,,aɸgiβan,aβaɣeβanã
 ɒfleɪ,ɑflɛɣən,apleːgən,,,ablɛgja,aɸlaɣjan,aβalaɣjanã
 ,ɑfneːmən,apneːmən,,,abhnɛːma,aɸniman,aβanemanã
@@ -378,10 +378,10 @@ eɪtθ,,axtə,ɔtːɔndə,ʔʌdənə,aʊhdʏndɪ,ahtuða,axtuðɔːː
 ɛlgə,,ɑdɛlgɜ,,,aːðalgeɪr,,aθalaɣaizaz
 ,,ɑdɔlf,,,,aθalawulɸs,aθalawulɸaz
 ,,,,,aːðatl,,aθalaz
-,,,,,,aθnam,aθna-
+,,,,,,aθnam-,aθna-
 aθəl,eːdəl,eːdəl,,,ɛðlɪ,,aθulijaz
 aθəlɪŋ,eːdəlɪŋ,,ɛdlɪŋ,,œðliŋgʏr,,aθuliŋgaz
-bad,,,,,,,bað-
+bad-,,,,,,,bað-
 bɛd,bɛt,bɛt,bɛd,,bɛːðʏr,baði,baðjã
 biːdhʊk,,,bøːd,,bœːð,baðus,baðwɔː
 biːm,boːm,baʊm,,,baðmʏr,baɣms,baɣmaz
@@ -507,7 +507,7 @@ biə,bir,biːɾ,,,bjoʊːr,,beuzã
 bɪg,,,bjɵg,bʔyg,bɪg,,bewwã
 biːvə,beːvər,biːbɜ,bjʉr,bʔyɐ̯,bjoʊːr,,beβruz
 baɪ,bɛɪ,baɪ,,,,bi,bi
-biː,beːeː,beː,,,,bi-,bi-
+bɪ-,bə-,bə-,,,,bi-,bi-
 baɪd,bɛɪdən,baɪtən,biːda,bjʔe,biːða,biːðan,biːðanã
 baɪt,bɛɪtən,baɪsən,biːta,bʔiðə,biːda,biːtan,biːtanã
 ,,,,,bɪːð,,biðã
@@ -722,7 +722,7 @@ bɜː,,boːɾ,bøːr,bʔœɐ̯,bɪːr,bɔːr,buriz
 ,boːr,,,,,,burɔːː
 bɔː,boːrən,boːrən,bɔra,boʌ,bɔːɾra,,burɔːnã
 bɹʌʃ,bɔrstəl,boːɾstə,bɔʂt,bʔœɐ̯sdə,bʏrrsd,,burstiz
-,bɔrdə,byɾdə,bœrda,bʔyɐ̯də,bɪrðʏr,bɔːrθiː,burθĩː
+bɜːdən,bɔrdə,byɾdə,bœrda,bʔyɐ̯də,bɪrðʏr,bɔːrθiː,burθĩː
 bɜːθ,bɔːrtə,bt,bœrda,bʔyɐ̯d,bʏrðʏr,,burθiz
 bʊʃ,bɔs,bʊʃ,bɵsxə,bʔusk,busgʏr,,buskaz
 bʌm,boːdəm,boːdən,bɔtɛn,bɒn,bɔhdhn,,butmaz
@@ -967,7 +967,7 @@ iːvənli,,,jɛmliːk,,jabhnlɛːɣʏr,iβnaliːks,eβnaliːkaz
 iːvən,ɛfən,eːbən,jɛmn,jεwn,jabhn,iβns,eβnaz
 iːvən,ɛfənən,ɛbnən,jɛmna,jεwnə,jabhna,,eβnɔːnã
 ,eːvər,eːbɜ,,,jœːʋʏr,,eβuraz
-eɪ,ɣə,geː,,,,ga-,ga-
+ə-,ɣə-,gə-,,,,ga-,ga-
 gəʊ,ɣaːn,geːən,goː,gɒ,gaʊː,gaŋgan,gaːnã
 gadlɪŋ,,,,,,gaðiliŋgs,gaðiliŋgaz
 gad,ɣaːdə,gatə,,,,,gaðɔːː
@@ -1260,7 +1260,7 @@ aɪən,ɛɪzər,aɪzən,jɛrn,jεɐ̯n,jaʊrdn,iːsarn,iːsarnã
 ,,,,,,iːsarniːns,iːsarniːnaz
 juː,ɛɪf,aɪbə,iːdəgran,,iːr,,iːxʷaz
 ,,,,,,iθ,iði
-ɛd,ɛt,iːt,iːd,,ɪːð,ið-,iði-
+ɛd-,ɛt-,ɪt-,iːd-,,ɪð-,ið-,iði-
 ,,,,,,iðwiːt,iðiwiːtã
 ,,,,,,iðwiːtjan,iðiwiːtijanã
 ,eːɣɛl,iːgəl,iːjəl,ʔijlə,iːɣʏtl,,iɣilaz
@@ -1611,7 +1611,7 @@ leɪv,,,,,leɪːf,lɛːβa,laiβɔː
 ləʊð,,,,lʔeðəs,leɪːða,,laiθaːnã
 ləʊθ,leːt,laɪt,leːd,lʔeð,leɪːðʏr,,laiθaz
 ,,laɪdən,,,leɪːða,,laiθijanã
-leɪk,laːkən,laxən,lɑːkan,laj-ən,laːg,,lakanã
+leɪk,laːkən,laxən,lɑːkan,læjʔən,laːg,,lakanã
 liːtʃ,lɛkən,lɛkən,,,,,lakjanã
 leɪk,laːk,laxə,,,,,lakɔː
 leɪm,lɑm,lɑːm,lɑːm,lɑm,laːmɪ,,lamaz
@@ -1820,7 +1820,7 @@ miə,mɪːrpaːl,,landamɛːrə,,landamaɪɾrɪ,,mairijã
 maʃ,,mɑːɪʃ,,,,,maiskã
 maʃ,,mɑːɪʃ,,,,,maiskaz
 miːs,meːs,maɪzə,,,,,maisɔː
-tɪtmaʊs,meːs,maɪzə,,,,,maisɔ̃ː
+maʊs,meːs,maɪzə,,,,,maisɔ̃ː
 məʊst,meːst,maɪst,mɛst,mʔest,mɛsd,mɛːst,maist
 ,,,mɛta,,meɪːda,mɛːtan,maitanã
 ,,,mɛta,,meɪːda,,maitijanã
@@ -1846,13 +1846,13 @@ manləs,mɑnloːs,manloːs,,,manløʏss,,manalausaz
 ,,,,,mannaɪlɪ,manɔːli,manaulijã
 ,,,,,mɛːn,,manjã
 ,,,maŋkə,mɑnkə,mahɟɪ,,mankɔːː
-man,mɑn,man,man,man,maːðʏr,manna,mann-
+man,mɑn,man,man,man,maːðʏr,manna,mann
 mɛnsk,mɛns,mɛnʃ,mɛnska,mεnεskə,mɛnsgʏr,mannisks,manniskaz
 man,,bəmanən,beːmana,,manna,,mannɔːnã
 meɪn,maːn,mɛːnə,man,man,mœːn,,manɔː
 ,maːnən,mɑːnən,,,,,manɔːnã
 miə,mɪːr,meːɾ,mar,mɑ,maːr,mariː,mari
-wʊdmɑːk,,mɛɾk,,,,,marikiz
+mɑːk,,mɛɾk,,,,,marikiz
 mɛɹɪswaɪn,mɪːrzʋɛɪn,meːɾʃvaɪn,maʂviːn,mɑsʋʔin,marrsʋin,,mariswiːnã
 ,,,,,mɛrja,,marjanã
 mɑːk,mɛrk,maɾk,mark,mɑɑk,marrg,,markã
@@ -1960,7 +1960,7 @@ mɪn,,,mɪnə,mʔenə,mɪnnɪ,minθi,minθijã
 mɜːk,,,,,mɪrrca,,mirkʷijanã
 mɪks,,mɪʃən,,,,,miskijanã
 mɪs,,,,,mɪssɪr,,miss
-mɪs,mɪs,mɪs,mɪs,mʔis,mɪːs,missa-,missa-
+mɪs-,mɪs-,mɪs-,mɪs-,mʔis-,mɪːs-,missa-,missa-
 mɪsdiːd,mɪsdaːt,mɪseːtɑːt,mɪsdoːd,mʔisdɒð,,missaðeːθs,missaðeːðiz
 ,,mɪslɪç,,,mɪsligʏr,missaliːks,missaliːkaz
 mɪs,mɪsən,mɪsən,mɪsta,mʔesdə,mɪssa,,missijanã
@@ -2283,7 +2283,7 @@ fiːf,veː,fiːh,fɛː,fε,fjɛː,ɸɛːhuː,ɸexu
 ,,,,,,ɸɛːhuːɸriks,ɸexuɸrekaz
 ,,fiːhaʊs,fɛːhʉs,fεhʔus,fjoʊːs,,ɸexuxuːsã
 fɛðə,veːdər,feːdɜ,fjɛːdər,fjʔeðʔʌ,fjœːðʏr,,ɸeθrɔː
-,,,,fjʔeɐ̯,fɛːr,ɸiður-,ɸeθur-
+,,,,fjεːʌ-,fɛːr-,ɸiður-,ɸeθur-
 fɔːfəʊld,virvʌʊt,fiːɾfalt,,,fɛrrfaldʏr,ɸiðurɸalθs,ɸeθurɸalθaz
 ,,,,,fɛrrsɟeɪhdʏr,,ɸeθurskautijaz
 ,,,fiːsa,fisə,fiːsa,,ɸiːsanã
@@ -2382,7 +2382,7 @@ fɒstə,,,fɔstər,fʔʌstʔʌ,,,ɸɔːstrã
 fɒstə,vutstɪːrən,,fɔstra,fʔʌsdʁʔʌ,foʊsdəra,,ɸɔːstrɔːnã
 fʊt,vut,fuːs,fuːt,fʔoð,foʊːdʏr,ɸoːtus,ɸɔːts
 ,vutspoːr,fʊsspuːɾ,fɔtspoːr,fʔoðspʔoɐ̯,foʊdsbɔr,,ɸɔːtspurã
-fɔː,vɛr,feːɾ,føːr,fʌ,fɔːr,ɸra-,ɸra-
+fɔː-,vər-,fɛɾ-,fœr-,fʌ-,fɔr-,ɸra-,ɸra-
 ,vərdeːlən,fɛɾtaɪlən,,,,ɸraðɛːljan,ɸraðailijanã
 fɔːdiːm,vərdumən,,føːrdøːma,,fɪːɾrɪrdaɪma,,ɸraðɔːmijanã
 ,vərdraːɣən,fɛɾtɾɑːgən,,,,,ɸraðraɣanã
@@ -2491,7 +2491,7 @@ fʌŋk,vɔŋk,fʊŋkə,,,,,ɸunkɔːː
 fiːz,,,,,fiːsa,,ɸunsijanã
 ,vɔxt,fɔøçt,,,,,ɸunxtijaz
 fɔː,vɔːr,fɔɾ,føːrə,,,ɸɔːra,ɸurai
-fɔː,,fɔɾ,,,,ɸɔːra-,ɸurai-
+fɔː-,,foːɜ-,,,,ɸɔːra-,ɸurai-
 ,vɔːrdøːr,,,,fɔrdɪɾrɪ,ɸɔːraðɔːri,ɸuraiðurjã
 ,,,,,,ɸɔːraɣaŋgan,ɸuraiɣaŋganã
 ,,,,,fɔːɾriɲɟɪ,ɸɔːraɣaŋgja,ɸuraiɣaŋgijɔːː
@@ -2502,7 +2502,7 @@ fɔːseɪ,vɔːrzɛɣən,foːɾzɑːgən,,,fɪːɾrɪrrsɛjja,,ɸuraisaɣjanã
 ,,,,,,ɸɔːrds,ɸurdiz
 fɔːd,vɔːrt,ft,,,,,ɸurduz
 fɔː,vøːr,fyːɾ,føːrə,fʌ,fɪːɾrɪr,ɸɔːr,ɸuri
-fɔː,vɛr,,,,,ɸɔːr-,ɸuri-
+fɔː-,vər-,,,,,ɸɔːr-,ɸuri-
 ,,,,,,ɸɔːrgaŋgan,ɸuriɣaŋganã
 ,,,,,fɪːɾrɪrmʏna,,ɸurimunaːnã
 fɜːst,vɔrst,fyːɾst,fœʂta,fʔœɐ̯st,fɪrrsdʏr,,ɸuristaz
@@ -2817,7 +2817,7 @@ sɪlvə,zɪlvər,zɪlbɜ,sɪlvər,sʔœl,sɪlʋʏr,siluβr,siluβrã
 sɪlvən,zɪlvərən,zɪlbɜn,,,,siluβriːns,siluβriːnaz
 ,,,,,,simleː,simleːː
 sluːm,slœymərən,ʃlʊmən,,slɒm,,,sin
-,zeːnə,,,,siː,,sin-
+,zeːnə,,,,si-,,sin-
 sɪndə,sɪntəl,zɪntɜ,sɪndər,sʔenʔʌ,sɪndʏr,,sindraz
 ,zeːnɛɣrun,zɪŋgɾyːn,sɪŋrøːn,sʔeŋʁʔœn,siɣəraɪn,,siŋgrɔːniz
 sɪŋ,zɪŋən,zɪŋən,sxɵŋa,sʔœŋə,siŋɟa,siŋgwan,siŋgʷanã
@@ -3235,7 +3235,7 @@ stɑːv,stɛrvən,ʃtɛɾbən,,,sdɪrrfɪn,,sterbanã
 stɑː,stɛr,ʃtɛɾn,sxɛrna,stjεɐ̯nə,sdjardna,stɛːrnoː,sternɔ̃ː
 ,,ʃtaɾkə,,,,stɛːroː,sterɔ̃ː
 stɑːt,staːrt,ʃtɛɾts,sxɛt,stjεɐ̯t,sdɛrrdʏr,,stertaz
-stɛp,stif,ʃtiːf,styːv,stʔiw,sdjuːb,,steupa-
+stɛp-,stif-,ʃtiːf-,styːv-,stif-,sdjub-,,steupa-
 stɛpbɑːn,,,styvbɑːrn,,sdjubbardn,,steupaβarnã
 stiə,stir,ʃtiːɾ,,,sdjoʊːr,stiur,steuraz
 ,stœyvən,ʃtiːbən,,,,,steuβanã
@@ -3456,7 +3456,7 @@ tiːtʃ,,,,,,,taikijanã
 təʊkən,teːkən,tsaɪçən,tɛkːən,tɑjn,teɪghn,tɛːkns,taikŋã
 ,teːkənən,tsaɪçnən,tɛkna,tɑjnə,teɪghna,tɛːknjan,taikŋijanã
 təʊkən,,tsaɪçnən,tɛkna,tɑjnə,teɪghna,,taikŋɔːnã
-mɪsəltəʊ,teːn,tsaɪn,teːn,dεn,teɪdn,tɛːns,tainaz
+tæn,teːn,tsaɪn,teːn,dεn,teɪdn,tɛːns,tainaz
 tiːnəl,,tsaɪnlɜ,,,teɪːnʏr,tɛːnjoː,tainijɔ̃ː
 təʊs,,tsaɪzən,,,,,taisanã
 teɪt,,tsaɪs,,,teɪːdʏr,,taitaz
@@ -3607,13 +3607,13 @@ tɜːd wiːvəl,tɔrtʋəvɛl,,tuːrdyːvəl,,tɔrdiʋɪtl,,turdawiβilaz
 ,,,tɔsa,,,,tuskã
 təʊz,,,,,tɔssa,,tussɔːnã
 ,tɔxt,tsʊxt,tɵkt,tɒgt,tɪtd,tɔːhts,tuxtiz
-,,,tɔr,,tɔːr,tuz-,tuz-
+,,,tɔr-,,tɔr-,tuz-,tuz-
 tweɪn,tʋeː,tsvaɪ,tvoː,tʔo,tʋeɪːr,twɛː,twai
 twɛnti,tʋɪntəx,tsvantsɪç,ɕʉguː,tyːw,tʏhdʏɣʏ,twɛː tiɣjus,twai tiɣiwiz
 twɛlv,tʋaːlf,tsvœlf,tɔlv,tʔʌl,toʊlf,twaliɸ,twaliɸ
 ,,,,,,twaliβwintrus,twaliɸwintruz
 twɪndʒ,,,,,,,twaŋgijanã
-twaɪ,tʋeː,tsviː,tveː,tʋʔe,tʋiː,twi-,twi-
+twaɪ-,tʋeː-,tsviː-,tveː-,tʋʔe-,tʋiː-,twi-,twi-
 twɪg,tʋɛɪx,tsvaɪk,,,,,twiːɣã
 ,tʋɛɪfəl,tsvaɪfəl,,,,twiːɸl,twiːɸlaz
 ,tʋɛɪfələn,tsvaɪfəln,,,,twiːɸljan,twiːɸlijanã
@@ -3625,7 +3625,7 @@ twɪfəʊld,tʋeːvʌʊt,tsviːfalt,,,tʋiːʋaldʏr,,twiɸaldaz
 twɪsəl,,tsviːzəl,,,,,twisilã
 bɪtwɪkst,,tsvɪʃən,,,,,twiskaz
 twɪtə,kvətɪːrən,tsvɪtsɜn,kvɪtra,kʋʔiðʁʔʌ,,,twitwizɔːnã
-tʊ,tə,tseːɾ,,,,twis-,twiz-
+tə-,tə-,tsɛɜ-,,,,twis-,twiz-
 twaɪn,tʋɪːrnən,tsvɪɾnən,tvɪna,tʋʔenə,tʋɪnna,,twiznaːnã
 twaɪn,tʋɪːrn,tsvɪɾn,,,tʋɪnnɪ,,twiznaz
 ʌdə,œyər,ɔøtɜ,jʉvər,ʔyʋʔʌ,juːɣʏr,,uːðarã
@@ -3642,7 +3642,7 @@ aʊtgaŋ,œytɣɑŋ,aʊsgaŋ,ʉtgɔŋ,ʔuðgɑŋ,udgaʊŋgʏr,,uːtgaŋgaz
 ʌmb,ɔm,ʊm,ɔm,ʔʌm,ʏːm,,umbi
 ,ɔmɣaːn,ymgɑːn,,,,,umbiɣaŋganã
 ʌmgaŋ,ɔmɣɑŋ,ʊmgaŋ,ɔmgɔŋ,ʔʌmgɑŋ,ʏmgaʊŋgʏr,,umbiɣaŋgaz
-ʌn,ɔn,ʊn,uː,u,oʊː,un-,un-
+ʌn-,ɔn-,ʊn-,uː-,u-,oʊː-,un-,un-
 ʌnbeəɹɪŋ,,,,,,unbɛːrands,unberandz
 ʌntɪl,,ʊnts,,,ʏns,und,und
 ʌndə,ɔndər,ʊntɜ,ɵndər,ɒnʔʌ,ʏndɪr,undar,under
@@ -3675,7 +3675,7 @@ wɜː,ɔns,ʊnzɜ,voːr,ʋɒ,ʋɔːr,unsar,unseraz
 ,ɔxtənt,ʊxt,ɔtːə,ʔotə,oʊhda,uhtwoː,unxtwɔ̃ː
 ,ɔnhʌʊt,ʊnhɔlt,,,oʊːhɔdlʏr,,unxulθaz
 ,ɔnhʌʊt,ʊnhɔlt,,,,unhuːlθa,unxulθɔːː
-,ɔnt,ɛnt,,,,,unθa-
+,ɔnt-,ɛnt-,,,,,unθa-
 ,ɔntvlidən,ɛntfliːən,,,,unθaθliuhaːn,unθaɸleuxanã
 ,ɔndə,ʊntə,,,ʏnnʏr,,unθiː
 əʊpən,oːpən,ɔfən,œpən,ɒbən,ɔːbɪn,,upanaz
@@ -3693,7 +3693,7 @@ aʊl,œyl,ɔølə,ɵgla,ulə,ʏgla,uŋgwiloː,uwwalɔ̃ː
 ʌvən,oːvən,oːfən,ɵŋn,ɒwn,ɔbhn,ɔːhns,uxnaz
 ɒks,ɔs,ɔxzə,uːksə,ʔʌksə,ɔksɪ,ɔːhsa,uxsɔːː
 ,,,ʉr,,uːr,us,uz
-ɔː,oːr,uːɾ,,,,us-,uz-
+ɔː-,oːr-,uːɜ-,,,,us-,uz-
 ,,,,,,usanan,uzananã
 ɐbeə,,ɛɾbɛːrən,,,,usbɛːran,uzberanã
 ɐbaɪd,,,,,,usbiːðan,uzbiːðanã
@@ -3796,13 +3796,13 @@ wiːl,,voːl,,,,,walɔːː
 wɛlt,,vɛltsən,vɛlta,ʋεldə,ʋɛlda,waltjan,waltijanã
 weɪl,,,vɑːl,ʔʌl,ʋœːlʏr,walus,waluz
 wɒləʊ,,,,,,walwjan,walwijanã
-kɔːnwɔːl,ʋaːl,vɑːlçən,,,ʋaːl,walhs,walxaz
+wæl,ʋaːl,vɑːlçən,,,ʋaːl,walhs,walxaz
 wɛlʃ,ʋaːls,vɛlʃ,vɛlsk,ʋεlsk,ʋalsgʏr,,walxiskaz
 wəʊld,ʋʌʊt,valt,val,ʋʔʌl,ʋœdlʏr,,walθuz
 gambɛsən,ʋɑmbœys,vamə,voːm,ʋʔʌm,ʋœmb,wamba,wambɔː
 wɛm,,,,,ʋam,wamm,wammaz
 wɛm,,,vɛmjas,ʋεməs,,wammjan,wammijanã
-wan,ʋɑn,vɑːn,vɑːn,ʋan,ʋaːn,,wana-
+wan-,ʋɑn-,vɑːn-,vɑːn-,ʋan-,ʋaːn-,,wana-
 weɪn,,,,,ʋaːna,ɸanan,wanaːnã
 wɒnt,,,,ʋandə,ʋanda,,wanatɔːnã
 wan,ʋɑn,vɑːn,vɑːn,ʋan,ʋaːnʏr,wans,wanaz
@@ -4010,7 +4010,7 @@ wɪθi,ʋɪsə,,vɪdja,ʋʔiðjə,ʋɪðja,,wiθjɔ̃ː
 wɪðə,ʋeːdər,viːdɜ,viːd,ʋʔeð,ʋɪːð,wiθra,wiθrã
 leɪt,,,leːta,lʔeðə,leɪːda,wlɛːtoːn,wlaitɔːnã
 ,,,leːtan,,leɪːdan,,wlaitɔːniz
-ɛnvɛləp,,,,ʋʁɑwlə,,,wlapp-
+ɛnvɛləp-,,,,ʋʁɑwlə-,,,wlapp-
 ,,,,,liːda,,wliːtanã
 ,,,lɛsp,lεsp,,,wlispaz
 lɪt,,,leːt,lʔœð,lɪːdʏr,wlits,wlitiz
